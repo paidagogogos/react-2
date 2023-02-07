@@ -27,7 +27,7 @@ const ListItem = ({id,content}) => {
                 value={inputValue}  
                 onChange={(e)=>setInputValue(e.target.value)}
             />
-            <button type="button" onClick={onDelete}>삭세</button>
+            <button type="button" onClick={onDelete}>삭제</button>
             <button type="button"onClick={onUpdate}>수정</button>
 
         </div>
