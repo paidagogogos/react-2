@@ -1,16 +1,23 @@
 {
-  "list": [
+  "posts": [
     {
-      "content": "내용을 수정 합니다. ",
-      "id": 2
-    },
-    {
-      "content": "새로운 내용을 다시 수정합니다. ",
-      "id": 3
-    },
-    {
-      "content": "ddddd",
-      "id": 4
+      "list": [
+        {
+          "content": "내용을 수정 합니다. ",
+          "id": 2
+        },
+        {
+          "content": "새로운 내용을 다시 수정합니다. ",
+          "id": 3
+        },
+        {
+          "content": "ddddd",
+          "id": 4
+        }
+      ]
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
